@@ -16,4 +16,9 @@ public class MainActivity extends AppCompatActivity {
         Log.w("heloo","hellow");
         Log.w("helow","hello");
     }
+    
+    public void add()
+    {
+        Log.w("Hellow","hi");
+    }
 }
