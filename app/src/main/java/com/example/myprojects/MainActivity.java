@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //here is the comment
 
         Log.w("heloo","hellow");
+        Log.w("helow","hello");
     }
 }
